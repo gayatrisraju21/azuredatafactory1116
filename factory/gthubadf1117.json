@@ -1,0 +1,9 @@
+{
+	"name": "gthubadf1117",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ecc989ef-d7b2-496e-aea1-288bb2d63b38",
+		"tenantId": "78aac226-2f03-4b4d-9037-b46d56c55210"
+	}
+}
